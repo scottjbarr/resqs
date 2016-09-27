@@ -1,4 +1,4 @@
-# Resqs
+># Resqs
 
 ## Why?
 
@@ -11,6 +11,12 @@ very well.
 ## It does what, now?
 
 Nothing yet.
+
+## References
+
+- https://github.com/Rafflecopter/golang-messageq
+- https://github.com/adjust/rmq
+- https://github.com/adjust/redismq
 
 ## License
 
